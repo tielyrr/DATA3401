@@ -1,0 +1,28 @@
+Jupyter: 
+shift+enter goes to next cell/saves current
+esc+m changes from code to markdown
+# headline, ##smaller headine ## smallest headline
+'-' bullet
+**phrase** make bold
+*phrase* make italic
+***phrase*** bold italic
+`phrase` hilights
+~~phrase~~ puts line through it
+(internet links go in parentheses)
+[link name](link) creates hyperlink
+
+Py:
+# == //
+- variables must start with a letter and cannot be reserved words (for, while, etc. will hilight if reserved.)
+-'snake case' for multiple words = all lowercase with underscores
+Assighnment operators: 
+'=' assigns variable
+'==' 4==5? false
+Logical Operators:
+'and'
+'or'
+'not'
+'variable.upper()'  changes string variable to all uppercase. 'lower()' = lowercase. helps for case sensitive searches
+'len(variable)' shows how many letters in string variable
+'\t' tab
+'\n' new line
